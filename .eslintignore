@@ -1,3 +1,5 @@
 dist
 coverage
 docs
+.eslintrc.js
+webpack.config.js
